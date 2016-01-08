@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HeresJohnny]]></title>
         <description><![CDATA[HeresJohnny]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heresjohnny/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 14:43:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 14:43:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heresjohnny/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87898310-9968-44d2-92f0-8852570a0c88.jpg">]]></description>
+            <link>https://thegrid.ai/heresjohnny/b7139eae-3e5d-4908-b222-befc4f5ddca3/index.html</link>
+            <guid isPermaLink="false">b7139eae-3e5d-4908-b222-befc4f5ddca3</guid>
+            <pubDate>Fri, 08 Jan 2016 14:43:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I didn't create this to show off. I did it because I can </p>]]></description>
-            <link>undefined3a01efe6-5b4e-4174-afd9-ff3ce127edb3/index.html</link>
+            <link>https://thegrid.ai/heresjohnny/3a01efe6-5b4e-4174-afd9-ff3ce127edb3/index.html</link>
             <guid isPermaLink="false">3a01efe6-5b4e-4174-afd9-ff3ce127edb3</guid>
             <pubDate>Fri, 08 Jan 2016 14:43:11 GMT</pubDate>
         </item>
